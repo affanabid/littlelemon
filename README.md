@@ -1,16 +1,17 @@
-# littlelemon
-## About
-This is a django web application for a restaurant 'littlelemon' that allows the users to
-1. view menu of the restaurant
-2. make reservations at the restuarant
-3. order items from menu list of the restaurant
-4. view details of each item on the menu list
-5. view about section of the restaurant
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Deployement
-1. download the file 'littlelemon'
-2. Run the command 'python manage.py runserver' in the command.
-3. Open the web applicationon on 'http://127.0.0.1:8000/'
+# Meta - Django Web Framework 
 
-## Credits
-This application is the final capstone project of the course 'Django Web Framework' offered by Meta on Coursera.
+![Screenshot_2023-01-15_15-48-56](https://user-images.githubusercontent.com/54184905/212542140-1e131690-3681-4542-a50d-7f3a8d39ae58.png)
+
+```bash
+# run
+python3 manage.py runserver
+```
+
+```bash
+# open
+http://127.0.0.1:8000/
+```
+
+[Course Link](https://www.coursera.org/learn/django-web-framework)
